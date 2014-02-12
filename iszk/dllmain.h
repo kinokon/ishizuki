@@ -5,7 +5,6 @@
 #include "masterRecord.h"
 #include "util.h"
 #include <map>
-//#include "lua.hpp"
 
 string dllpath;
 //vector<masterRecord> RANDOMcore;
